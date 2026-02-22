@@ -9,15 +9,7 @@ Date: 2026-02-22
 - Public showcase repos updated: 3
 
 ## MU Plugin Discovery
-- Discovery scope: 
-a
-
-t
-a
-
-d
-
-direct  files under  (plus first-level subfolder scan).
+- Discovery scope: direct *.php files under /Users/amiraliyaghouti/Desktop/git - project/mu-plugins (plus first-level subfolder scan).
 - Confirmed MU plugin count: 55
 
 ## Private Repositories (Created/Updated)
@@ -95,15 +87,15 @@ All links below are private source repositories:
 ## Skipped Items / Remediation
 - Current status: no unresolved skipped items.
 - Previously blocked items were remediated and published privately:
-  - a2-crm-plugin:  kept untracked;  added.
-  - a2-excel-price-sync: zip exports moved under ignored ;  excluded.
-  - jeweltimeco-webapp (renamed from jeweltimeco.ir):  and  untracked/ignored, sample files added, SQL/log dumps removed from tracked history and quarantined.
+  - a2-crm-plugin: includes/config.php kept untracked; includes/config.sample.php added.
+  - a2-excel-price-sync: zip exports moved under ignored exports/; *.zip excluded.
+  - jeweltimeco-webapp (renamed from jeweltimeco.ir): config.php and api/_db.php untracked/ignored, sample files added, SQL/log dumps removed from tracked history and quarantined.
 
 ## Security Controls Applied
-- Enforced strong  baselines across private repos.
+- Enforced strong .gitignore baselines across private repos.
 - Secret filename/content gates executed before pushes.
 - Sensitive artifacts quarantined to local path:
-  - 
+  - /Users/amiraliyaghouti/Desktop/_sensitive_quarantine/2026-02-22
 
 ## LinkedIn Featured Ordering Recommendation
 1. a2-performance-mu-showcase
