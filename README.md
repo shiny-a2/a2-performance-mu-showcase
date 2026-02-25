@@ -13,6 +13,13 @@ A WooCommerce performance and stability suite focused on measurable latency redu
 ## Scope Note
 This public repository is documentation-only and excludes private implementation code.
 
+## Latest Hardening Update (2026-02-25)
+- Stabilized Rank Math Redirections admin flow after a runtime conflict blocked `Add New Redirection`.
+- Hardened WooCommerce archive price filtering with stricter typed-input normalization.
+- Reduced admin script collision risk by narrowing screen-level asset loading for order operations.
+- Added same-origin admin AJAX safeguards for host-alias deployments.
+- Detailed release note: `docs/RELEASE_2026-02-25_PLUGIN_STABILITY.md`.
+
 ## Project Index
 The table below is a complete index of private-source repositories used across the portfolio.
 | Project | Purpose | KPI (Anonymized) | Source |

@@ -17,7 +17,7 @@ This index enumerates MU plugins split into standalone private repositories.
 | a2-digikala-gateway.php | A2 Offline Admin-Only Payment Gateways [MU] | crm | private source: https://github.com/shiny-a2/mu-a2-digikala-gateway |
 | a2-egress-assets-firewall.php | A2 Egress Assets Firewall (Front) | security | private source: https://github.com/shiny-a2/mu-a2-egress-assets-firewall |
 | a2-egress-firewall-adminspeed.php | A2 Egress Blocklist (MU) | performance | private source: https://github.com/shiny-a2/mu-a2-egress-firewall-adminspeed |
-| a2-fast-archive-filter-modal.php | A2 Fast Archive Filters (AJAX Modal) — MU | performance | private source: https://github.com/shiny-a2/mu-a2-fast-archive-filter-modal |
+| a2-fast-archive-filter-modal.php | A2 Fast Archive Filters (AJAX Modal) — MU v1.3.8 | performance | private source: https://github.com/shiny-a2/mu-a2-fast-archive-filter-modal |
 | a2-front-perf-guard.php | A2 Front Perf Guard (MU) | performance | private source: https://github.com/shiny-a2/mu-a2-front-perf-guard |
 | a2-googlebot-render-fix.php | A2 Googlebot Render Fix (MU) | other | private source: https://github.com/shiny-a2/mu-a2-googlebot-render-fix |
 | a2-home-watch-ctas.php | A2 Home Watch Category Buttons (Shortcode) — WebP Icons | ui | private source: https://github.com/shiny-a2/mu-a2-home-watch-ctas |
@@ -28,7 +28,7 @@ This index enumerates MU plugins split into standalone private repositories.
 | a2-mobile-sticky-buybar.php | A2 Mobile Sticky Buy Bar (MU) — Bulletproof Renderer (Patched) | security | private source: https://github.com/shiny-a2/mu-a2-mobile-sticky-buybar |
 | a2-mu-fullpage-microcache.php | A2 MU Fullpage Micro-Cache | performance | private source: https://github.com/shiny-a2/mu-a2-mu-fullpage-microcache |
 | a2-openai-test.php | A2 OpenAI Diagnostics (MU) — No SSH Shared Host Test Suite | admin | private source: https://github.com/shiny-a2/mu-a2-openai-test |
-| a2-order-replacement-box.php | A2 Order Fix Box (Replace / Shipping / Price Correction) - No Gateway Touch v1.7.0 | crm | private source: https://github.com/shiny-a2/mu-a2-order-replacement-box |
+| a2-order-replacement-box.php | A2 Order Fix Box (Replace / Shipping / Price Correction) - No Gateway Touch v1.7.1 | crm | private source: https://github.com/shiny-a2/mu-a2-order-replacement-box |
 | a2-perf-logger.php | A2 Perf Logger (MU) — Pinpoint Edition | performance | private source: https://github.com/shiny-a2/mu-a2-perf-logger |
 | a2-post-change-price.php | a2-post-change-price |  | private source: https://github.com/shiny-a2/mu-a2-post-change-price |
 | a2-prdctfltr-guard.php | A2 PRDCTFLTR Guard (MU) | performance | private source: https://github.com/shiny-a2/mu-a2-prdctfltr-guard |
@@ -51,7 +51,7 @@ This index enumerates MU plugins split into standalone private repositories.
 | burst_rest_api_optimizer.php | burst-rest-api-optimizer |  | private source: https://github.com/shiny-a2/mu-burst-rest-api-optimizer |
 | disable-wc-store-api.php | Disable WC Store API for Guests | performance | private source: https://github.com/shiny-a2/mu-disable-wc-store-api |
 | elementor-safe-mode.php | Elementor Safe Mode | other | private source: https://github.com/shiny-a2/mu-elementor-safe-mode |
-| mu-admin-as-core.php | MU Admin + Action Scheduler Core (Javaherian) | performance | private source: https://github.com/shiny-a2/mu-mu-admin-as-core |
+| mu-admin-as-core.php | MU Admin + Action Scheduler Core (Javaherian) v1.1.0 | performance | private source: https://github.com/shiny-a2/mu-mu-admin-as-core |
 | mu-archive-performance.php | MU Archive Performance (Javaherian) | performance | private source: https://github.com/shiny-a2/mu-mu-archive-performance |
 | mu-confetti-disable.php | MU Confetti Disabled (Javaherian) | other | private source: https://github.com/shiny-a2/mu-mu-confetti-disable |
 | mu-digits-price-badge.php | MU Persian Digits (Prices + Sale Badges) | ui | private source: https://github.com/shiny-a2/mu-mu-digits-price-badge |
