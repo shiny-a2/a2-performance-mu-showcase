@@ -40,8 +40,8 @@ This index enumerates MU plugins split into standalone private repositories.
 | a2-reward-box.php | a2-reward-box |  | private source: https://github.com/shiny-a2/mu-a2-reward-box |
 | a2-rewards.php | a2-rewards |  | private source: https://github.com/shiny-a2/mu-a2-rewards |
 | a2-searchwiz-cart-block.php | A2 Searchwiz Allowlist Firewall (MU) | security | private source: https://github.com/shiny-a2/mu-a2-searchwiz-cart-block |
-| a2-security-malware-scanner.php | A2 Security Malware Scanner (MU) v1.0.0 | security | private source: https://github.com/shiny-a2/mu-a2-security-malware-scanner |
-| a2-storage-audit.php | A2 Storage Audit & Log Writers (MU) v1.1.0 | admin | private source: https://github.com/shiny-a2/mu-a2-storage-audit |
+| a2-security-malware-scanner.php | A2 Security Malware Scanner (MU) v1.2.0 | security | private source: https://github.com/shiny-a2/mu-a2-security-malware-scanner |
+| a2-storage-audit.php | A2 Storage Audit & Log Writers (MU) v1.2.0 | admin | private source: https://github.com/shiny-a2/mu-a2-storage-audit |
 | a2-smart-faq.php | A2 Smart FAQ (MU) — Auto Inject Accordion v1.0.3 | ui | private source: https://github.com/shiny-a2/mu-a2-smart-faq |
 | a2-style-dna-similar.php | A2 Style DNA Similar (MU) — Fast-Priority Similar Products v1.0.34 | performance | private source: https://github.com/shiny-a2/mu-a2-style-dna-similar |
 | a2-topbar.php | A2 SnappPay Top Bar (MU) — Bulletproof Header Inject (No Conflicts) | ui | private source: https://github.com/shiny-a2/mu-a2-topbar |

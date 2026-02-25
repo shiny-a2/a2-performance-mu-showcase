@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-02-25 (scanners v1.2.0 follow-up)
+- Upgraded private scanner modules and synchronized public-safe showcase notes:
+  - `A2 Security Malware Scanner (MU)` -> `v1.2.0`
+  - `A2 Storage Audit & Log Writers (MU)` -> `v1.2.0`
+- Documented major scanner enhancements:
+  - database phase and IOC extraction for malware/security scanner,
+  - leaf-only final-folder sizing for storage scanner.
+- Updated plugin and project index rows to keep public versions/source mapping accurate.
+
 ## 2026-02-25
 - Published a production-hardening showcase update for plugin reliability and admin workflow stability.
 - Added detailed release notes for:
