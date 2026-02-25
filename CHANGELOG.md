@@ -9,6 +9,9 @@
   - `A2 CRM Plugin v3.2.1`
 - Documented operational impact, root causes, mitigations, and verification checklist in an employer-facing format.
 - Refined legacy plugin catalog text to English-only wording across `README.md` and `docs/PROJECT_INDEX.md`.
+- Added two new private MU modules and public-safe descriptions:
+  - `A2 Security Malware Scanner (MU) v1.0.0`
+  - `A2 Storage Audit & Log Writers (MU) v1.1.0`
 
 ## 2026-02-22
 - Initial public documentation-only release.
