@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-02-25 (scanner v1.3.0 sync)
+- Synchronized showcase with private `A2 Security Malware Scanner (MU) v1.3.0` release.
+- Documented new capabilities:
+  - safe remediation controls (`640` permission fix, quarantine, conservative auto-fix with backup),
+  - optional suspicious inbound/outbound traffic monitoring,
+  - lower false-positive strategy and deeper executable-file inspection.
+- Updated plugin/project index version mapping to keep public/private tracking accurate.
+
 ## 2026-02-25 (scanners v1.2.0 follow-up)
 - Upgraded private scanner modules and synchronized public-safe showcase notes:
   - `A2 Security Malware Scanner (MU)` -> `v1.2.0`

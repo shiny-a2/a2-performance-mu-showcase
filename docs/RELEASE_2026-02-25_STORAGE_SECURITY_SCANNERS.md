@@ -2,7 +2,7 @@
 
 ## Scope
 - `A2 Storage Audit & Log Writers (MU)` -> `v1.2.0`
-- `A2 Security Malware Scanner (MU)` -> `v1.2.0`
+- `A2 Security Malware Scanner (MU)` -> `v1.3.0`
 
 ## Why This Release Was Extended
 Shared hosting operations usually lack terminal access and deep observability tooling.  
@@ -17,7 +17,7 @@ This release extends the scanner stack with deeper signal quality and more actio
 - Controlled log cleanup (safe truncation checks).
 - Scanner ON/OFF switch and plugin-record cleanup for low-overhead operation.
 
-### 2) A2 Security Malware Scanner (MU) v1.2.0
+### 2) A2 Security Malware Scanner (MU) v1.3.0
 - Three-phase shared-host-safe scan pipeline: `filesystem -> checksums -> database`.
 - Advanced signature + heuristic detection for obfuscation and web-shell patterns.
 - IOC extraction and risk scoring (URL/domain/IP/email) with source-path visibility.
@@ -25,6 +25,8 @@ This release extends the scanner stack with deeper signal quality and more actio
 - WordPress core integrity verification through official checksum API.
 - `wp_options` persistence checks for suspicious payload patterns.
 - Persian detailed report panels with actionable remediation plan.
+- Safe remediation controls: one-click permission hardening to `640`, quarantine action, and conservative auto-fix with backup.
+- Optional suspicious traffic monitor for inbound/outbound request tracing with risk-scored alerts.
 
 ## Operational Impact (Anonymized)
 - Disk-pressure triage time reduced ~60-90%.
